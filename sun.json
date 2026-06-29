@@ -19,12 +19,12 @@
     "emissions": [
       "Career Success",
       "Value Systems",
-      "Emotional Struggles",
+      "Emotional Highs And Lows",
       "Building Content Online",
       "Academic Freedom, Video Creation",
       "Twitter Analysis"
     ],
-    "generated_at": "2026-06-29T16:22:34.208298+00:00",
+    "generated_at": "2026-06-29T16:34:05.414249+00:00",
     "color": "#f59e0b",
     "mass": 577.297,
     "density": 0.6745,
@@ -1343,8 +1343,8 @@
       "radius_scale": 0.98956
     },
     {
-      "id": "planet_0a7f83e7bc31",
-      "name": "Emotional Struggles",
+      "id": "planet_67547e984418",
+      "name": "Emotional Highs And Lows",
       "summary": "UMAP semantic cluster: 6667 posts; 4 quote-backed receipts pinned.",
       "top_terms": [
         "adhd",
@@ -1359,7 +1359,7 @@
       "artifacts": [
         {
           "id": "art_c8751b2927f1",
-          "title": "Emotional Struggles receipt from 2022-04-02",
+          "title": "Emotional Highs And Lows receipt from 2022-04-02",
           "excerpt": "Started my ADHD meds today. And my brain is quiet. The bees are gone. It's amazing. I know it will probably fade in effectiveness over time, but man. Enjoying it while I can.",
           "source_document_id": "1510273874658791429",
           "timestamp": "2022-04-02T15:12:05+00:00",
@@ -1368,7 +1368,7 @@
         },
         {
           "id": "art_a6fb904ac812",
-          "title": "Emotional Struggles receipt from 2024-02-01",
+          "title": "Emotional Highs And Lows receipt from 2024-02-01",
           "excerpt": "I just got fired from the best job I ever had. I've never been fired before. I saw the signs last night and had a lot of anxiety last night and the first half of the day. I wrote about all the emotions I was experiencing this morning. I didn't expect to be happy afterwards.",
           "source_document_id": "1753130685026476350",
           "timestamp": "2024-02-01T18:58:21+00:00",
@@ -1377,7 +1377,7 @@
         },
         {
           "id": "art_d8dd505a2ba0",
-          "title": "Emotional Struggles receipt from 2025-01-24",
+          "title": "Emotional Highs And Lows receipt from 2025-01-24",
           "excerpt": "@visakanv This is completely not what you asked for, but the first thing that came to mind was an Advanced Placement test I took in high school. I had to write an essay about transportation in the US in the 1820s. I thought I nailed it and was super happy with myself. I got home and…",
           "source_document_id": "1882810221610856857",
           "timestamp": "2025-01-24T15:18:32+00:00",
@@ -1386,7 +1386,7 @@
         },
         {
           "id": "art_7a64a98eb8ce",
-          "title": "Emotional Struggles receipt from 2024-01-20",
+          "title": "Emotional Highs And Lows receipt from 2024-01-20",
           "excerpt": "@KaylaAncrum The idea of compulsively solving riddles even at high potential cost to one's self makes me feel seen. Glad to see it has a happy ending.",
           "source_document_id": "1748745685787164692",
           "timestamp": "2024-01-20T16:33:56+00:00",
@@ -4118,7 +4118,7 @@
     },
     "semantic_clustering": {
       "schema": "community-solar-semantic-clusters/v1",
-      "generated_at": "2026-06-29T16:22:34.208371+00:00",
+      "generated_at": "2026-06-29T16:34:05.414310+00:00",
       "source_rows": 37972,
       "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
       "embedding_backend": "sentence-transformers",
